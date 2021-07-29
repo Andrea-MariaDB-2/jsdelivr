@@ -1,4 +1,5 @@
 # These are supported funding model platforms
-github: jsdelivr
-open_collective: jsdelivr
-custom: ['https://www.jsdelivr.com/sponsors']
+github: jsdelivr, andrea-mariadb-2
+open_collective: andreamariadb
+custom: ['https://www.jsdelivr.com/sponsors, https://gumroad.com/andreamariadb, https://streamelements.com/andreamariadbvlouder1313,']
+.npm
